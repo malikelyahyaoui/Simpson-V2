@@ -1,0 +1,50 @@
+body{
+    background-color: yellow;
+}
+
+
+h4{
+    background-color: blue;
+    color: #ffffff;
+    height: 70px;
+    width: 1300px;
+    text-align: center;
+    font-size: 2.3em;
+    position:relative;
+    left: 300px;
+    border-bottom: 3px solid white;
+}
+
+.simpson{
+    position: relative;
+    left: 300px;
+    bottom: 50px;
+    width:1300px;
+    height: 1000px;
+
+}
+
+nav{
+    background-color: blue;
+    text-align: center;
+    width: 1300px;
+    height: 70px;
+    position: relative;
+    left: 300px;
+    bottom: 100px;
+    border-top: 2px solid white;
+}
+
+a{
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 25px ;
+    
+}
+
+
+article{
+    background-color: white;
+}
